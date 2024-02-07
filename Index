@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Bio</title>
+</head>
+<body>
+    <h1 style="color:teal">A Little About Myself</h1>
+    <img src="img/img1.jpg" alt="My Picture" width="200">
+
+    <p>My name is Rahjion Saunders and I am a College Senior who's ever curious about the inner-workings of Computer Science. I hope to continue learning all I can while studying the field.</p>
+    <h2 style="color:teal">My Spring Semester Courses:</h2>
+    <ul>
+        <li>COMP 200</li>
+        <li>COMP 267</li>
+        <li>COMP 300</li>
+	<li>COMP 322</li>
+	<li>COMP 350</li>
+	<li>COMP 365</li>
+    </ul>
+
+    <a href="introduction.html">View my skills</a>
+</body>
+</html>
